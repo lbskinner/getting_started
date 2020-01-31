@@ -32,3 +32,7 @@ p {
   -webkit-text-fill-color:transparent;
   font-size: 60px;
 }
+
+.text-box {
+  width: fit-content;
+}
